@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header{
+    height: 200px;
+    width: 100%;
+    background-color: #FFF3DE;
+    padding: 90px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.btn-transacao{
+    width: 200px;
+    height: 70px;
+    background-color: #000000;
+    border-radius:10px ;
+    color: #FFFFFF;
+}
+.card-entradas{
+    width: 400px;
+    height: 150px;
+    border-radius: 20px;
+    background-color:#F4F9FE;
+    padding: 25px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+
+}
+.icone1{
+    width: 100px;
+    height: 100px;
+    background-color: #FFFFFF;
+    border-radius: 50px;
+      
+}
+
+.text-entrada{
+    color: #969696;
+      
+}
+.textentrada{
+    font-weight: bold;
+    font-size: 32px;
+}
+
+.cardbtn{
+    display: flex;
+    gap: 30px;
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+    position:absolute;
+    top: 115px;
+    left: 3%;
+
+
+}
