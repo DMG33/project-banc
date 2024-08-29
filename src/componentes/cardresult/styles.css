@@ -1,0 +1,12 @@
+.cardresults{
+    margin-top: 150px;
+    background-color:#f51212;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 8px;
+    padding: 16px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 400px;
+}

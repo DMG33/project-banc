@@ -1,5 +1,5 @@
 function Cards ({valor, texto}){
-
+    
     return(
         <div className="card-entradas">
             <div className="icone1">
